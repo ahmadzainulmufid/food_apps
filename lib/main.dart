@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:food_apps/DetailScreen.dart';
+import 'package:food_apps/MainScreen.dart';
 
 void main() => runApp(const MyApp());
 
@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Food Apps',
       theme: ThemeData(),
-      home: const DetailScreen(),
+      home: const MainScreen(),
     );
   }
 }
