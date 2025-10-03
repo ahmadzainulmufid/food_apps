@@ -34,7 +34,7 @@ var foodList = [
     imageAsset: 'images/soto-kudus.jpg',
     imageUrls: [
       'https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480/img/recipe/ras/Assets/23f62312738135ab286e78812093c46b/Derivates/2e373c2ef0bf36c9e8475cbf93347db5a3496309.jpg',
-      'https://www.chocolatesandchai.com/wp-content/uploads/2024/11/Soto-Betawi-Featured.jpg',
+      'https://akcdn.detik.net.id/visual/2019/06/21/f75374e4-90e9-4c25-a05c-036d9a0f441c_169.jpeg?w=1200',
       'https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/11/25/2688545683.jpg',
     ],
   ),
@@ -48,9 +48,9 @@ var foodList = [
     calories: '420 Kalori',
     imageAsset: 'images/rendang.jpg',
     imageUrls: [
-      'https://cdn0-production-images-kly.akamaized.net/vIx_lxR1UfFl79d67T7pjvy1tXw=/800x450/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/1253731/original/213c98558a7233f0f923c91df2b986f9beef-curry-recipe-stew-beef-in-coconut-curry.jpg',
-      'https://solotrust.com/data/foto-berita/52757-Resep%20dan%20Cara%20Membuat%20Rendang%20Ayam%20yang%20Simpel,%20Cocok%20Untuk%20Pemula.jpg',
-      'https://rendangasese.com/wp-content/uploads/2015/03/IMG-20180118-WA0011.jpg',
+      'https://asset.kompas.com/crops/B62efXYwZ7SGcbEB8Lw7vTQrIkg=/100x67:900x600/1200x800/data/photo/2020/06/30/5efb2f520efb4.jpg',
+      'https://asset.kompas.com/crops/ZoH5AiG9XX7W0LXb52KQdCM7i_s=/39x0:881x561/1200x800/data/photo/2022/06/15/62a9259c92796.jpeg',
+      'https://asset.kompas.com/crops/hHTtGq_LqESGCFnJ2wYsorN712c=/0x258:668x703/1200x800/data/photo/2020/08/02/5f264e2c902ac.jpg',
     ],
   ),
   FoodData(
@@ -63,9 +63,9 @@ var foodList = [
     calories: '350 Kalori',
     imageAsset: 'images/gudeg.jpeg',
     imageUrls: [
-      'https://www.dapurkobe.co.id/wp-content/uploads/gudeg-jogja.jpg',
-      'https://assets.pikiran-rakyat.com/crop/0x0:0x0/720x0/webp/photo/2023/09/14/2136910739.png',
-      'https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/c33dc34a-99de-4580-abb8-025676d971be_Go-Biz_20220924_082104.jpeg',
+      'https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p2/66/2024/08/27/WhatsApp-Image-2024-08-27-at-132219-729094731.jpeg',
+      'https://awsimages.detik.net.id/community/media/visual/2023/06/01/resep-gudeg-jogja-komplet_43.jpeg?w=600&q=90',
+      'https://asset.kompas.com/crops/QGErEgRilqQ3z4u7E5fZ5NKO1As=/23x0:868x563/1200x800/data/photo/2022/07/12/62ccebf61f9ce.jpeg',
     ],
   ),
   FoodData(
@@ -78,9 +78,9 @@ var foodList = [
     calories: '280 Kalori',
     imageAsset: 'images/pempek.jpg',
     imageUrls: [
-      'https://asset-2.tribunnews.com/palembang/foto/bank/images/ilustrasi-penampakan-pempek-yang-terbuat-dari-bahan-dasar-ikan-gabus.jpg',
-      'https://img.lazcdn.com/g/ff/kf/Scf7930a0c4854fd1b1117a003e24a841u.jpg_720x720q80.jpg',
-      'https://i.ytimg.com/vi/P1v2Tbza8_A/maxresdefault.jpg'
+      'https://i0.wp.com/i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/b5482ce6-d687-4ce9-b1c1-b96ebafc10da_Go-Biz_20200624_093223.jpeg?resize=728%2C500',
+      'https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p2/247/2024/11/15/Resep-Pempek-Ikan-Tenggiri-2537049212.jpg',
+      'https://asset.kompas.com/crops/DSZDoWBBK-fwZIpIRB4M_DY5zcM=/0x41:1000x708/1200x800/data/photo/2021/03/01/603c1e79dd9d3.jpg',
     ],
   ),
   FoodData(
@@ -91,11 +91,11 @@ var foodList = [
     taste: 'Gurih & Rempah',
     price: 'Rp 28.000',
     calories: '370 Kalori',
-    imageAsset: 'images/rawon.jpeg',
+    imageAsset: 'images/rawon2.jpg',
     imageUrls: [
-      'https://cdn0-production-images-kly.akamaized.net/mhscABpOR_vFG1MfhtnBeNgQjVs=/800x450/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4291706/original/035197500_1673766698-158045079_253196819691511.jpg',
-      'https://assets.unileversolutions.com/recipes-v2/125536.jpg',
-      'https://cirebonberitrust.com/wp-content/uploads/2024/07/Screenshot-2024-07-30-103023.png',
+      'https://image.idntimes.com/post/20230601/img-20230601-112010-acdea80fbd03946bd8ba7f0328c9c4c5.jpg',
+      'https://asset.kompas.com/crops/Z4AMIzm1FWyV8dPZFPLx5EcztsU=/0x0:780x520/1200x800/data/photo/2024/03/08/65eac6e4198d8.jpg',
+      'https://awsimages.detik.net.id/community/media/visual/2022/11/14/rawon-kiroman-kenikmatan-rawon-legendaris-malang-sejak-1954-5.jpeg?w=1200',
     ],
   ),
   FoodData(
@@ -108,9 +108,9 @@ var foodList = [
     calories: '400 Kalori',
     imageAsset: 'images/nasi_goreng.jpg',
     imageUrls: [
-      'https://i.ytimg.com/vi/cRoSck01Y-s/maxresdefault.jpg',
-      'https://www.enakeco.com/wp-content/uploads/2023/02/Nasi-Goreng-Sambal-Ijo-Enak-Eco-optimized.jpg',
-      'https://cdn0-production-images-kly.akamaized.net/U1AhHPUouAr9KhoeLZBY8hhBgwM=/0x28:999x591/469x260/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4091808/original/034443400_1658107777-shutterstock_2047628240.jpg',
+      'https://asset.kompas.com/crops/MQu5vhclYBSpThmyZtKoeapgR5M=/13x0:982x646/1200x800/data/photo/2021/01/28/6012d4d652f3e.jpg',
+      'https://asset.kompas.com/crops/4br5IrIVyNNTGEing0zQbjNrcmM=/0x31:1000x697/1200x800/data/photo/2020/08/24/5f43b54c4b426.jpg',
+      'https://asset.kompas.com/crops/xypfK4ocbhNEr7YcPTkcr3IE4_I=/58x45:938x631/1200x800/data/photo/2023/03/04/64030fca3ded8.jpg',
     ],
   ),
   FoodData(
@@ -124,7 +124,7 @@ var foodList = [
     imageAsset: 'images/sate.jpeg',
     imageUrls: [
       'https://asset.kompas.com/crops/RgJ_3E6XGGJQEiwCJoCOe-HTZ7o=/115x0:959x563/1200x800/data/photo/2023/06/29/649d02beb32d7.jpg',
-      'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbU7EWNYU3T9w_-ei9CasAHlXLCwWcVLjC-1Rm0gLgEAH1Z22GtMOYxtKMyfpwZKmkzmy9mH5t1Vorzp5kBDg1o64BJzTWkbYnitnwDhYoDmfnaLvffE3eNI6_6o0xCPrlyb5opN8xJ-Q/s1600/IMG_1890440391-Foto+Konsumen-Sate+Babat%252C+Ditakuti+Tapi+Tetap+Nikmat.jpg',
+      'https://asset.kompas.com/crops/iMS66tSSHjXba1yafAbPVwcwLiM=/55x0:784x486/1200x800/data/photo/2023/11/13/65516ea3282fb.jpeg',
       'https://asset.kompas.com/crops/hCbVquVhkYe2q3RO7e6CSH2XUH0=/0x0:1000x667/1200x800/data/photo/2021/03/28/60607a72127cd.jpg',
     ],
   ),
