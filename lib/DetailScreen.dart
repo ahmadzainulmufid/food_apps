@@ -300,8 +300,22 @@ class _FavoriteButtonState extends State<FavoriteButton> {
       onPressed: () {
         setState(() {
           isFavorite = !isFavorite;
+          ScaffoldMessenger.of(context)
+            ..hideCurrentSnackBar()
+            ..showSnackBar(
+              SnackBar(
+                content: Text(
+                  isFavorite
+                      ? 'Added to favorites ❤️'
+                      : 'Removed from favorites 💔',
+                ),
+                duration: const Duration(seconds: 2),
+                behavior: SnackBarBehavior.floating,
+              ),
+            );
         });
       },
     );
   }
 }
+

@@ -7,10 +7,14 @@ class MainScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    WidgetsBinding.instance.addPostFrameCallback((_) {
+      ScaffoldMessenger.of(
+        context,
+      ).showSnackBar(const SnackBar(content: Text('Welcome!')));
+    });
+
     return Scaffold(
-      appBar: AppBar(
-        title: Text('Food Application'),
-      ),
+      appBar: AppBar(title: const Text('Food Application')),
       body: LayoutBuilder(
         builder: (BuildContext context, BoxConstraints constraints) {
           if (constraints.maxWidth <= 600) {
@@ -82,7 +86,9 @@ class FoodDataGrid extends StatelessWidget {
             onTap: () {
               Navigator.push(
                 context,
-                MaterialPageRoute(builder: (context) => DetailScreen(food: food)),
+                MaterialPageRoute(
+                  builder: (context) => DetailScreen(food: food),
+                ),
               );
             },
             child: Card(
